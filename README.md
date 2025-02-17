@@ -20,7 +20,7 @@ atau
 pip3 install -r requirements.txt
 ```
 
-##Siapkan data input
+## Siapkan data input
 Buat file `proxy.txt` dan simpan informasi proxy dalam format berikut:
 ```
 http://user:pass@ip:port
